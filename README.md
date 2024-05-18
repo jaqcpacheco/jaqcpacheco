@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaqcpacheco
 - 👀 I’m interested in learn about new programming languages.
-- 🌱 I’m currently learning  Python and JavaScript
+- 🌱 I’m currently learning  Java e C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
